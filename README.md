@@ -1,4 +1,4 @@
-[変更点](../Changes.md)
+[変更点](./Changes.md)
 
 # Xojoテンプレート
 
