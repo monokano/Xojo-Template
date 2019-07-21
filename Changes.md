@@ -4,9 +4,9 @@
 * Single Window Desktop App for Mac
     * App.EnableMenuItems を改善。
     * RegExXojoモジュールを追加。
-        * XojoのRegExクラスを使いやすくしたメソッドをまとめたもの。
+        * XojoのRegExクラスを使いやすくしたメソッド集。
     * UnicodeNormalizationモジュールを追加。
-        * Unicode正規化のメソッドをまとめたもの。
+        * Unicode正規化関連のメソッド集。
 * Multi Window Desktop App for Mac
     * App.EnableMenuItems を改善。
 
