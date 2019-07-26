@@ -18,12 +18,12 @@
         * 環境設定関連のメソッド集。
         * Window1の位置とサイズの読み書きを仕込んであります。
     * AboutWindowのアイコンのHi-DPI対応。
-    * App.CancelCloseにQuit時のクラッシュ防止を仕込んだ。
+    * App.CloseにQuit時のクラッシュ防止を仕込んだ。
 * **Multi Window Desktop App for Mac**
     * AboutWindowのアイコンのHi-DPI対応。
-    * App.CancelCloseにQuit時のクラッシュ防止を仕込んだ。
+    * App.CloseにQuit時のクラッシュ防止を仕込んだ。
 * **Droplet**
-    * App.CancelCloseにQuit時のクラッシュ防止を仕込んだ。
+    * App.CloseにQuit時のクラッシュ防止を仕込んだ。
 
 
 ### 2019.7.21
