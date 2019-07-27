@@ -1,5 +1,11 @@
 ## 変更点
 
+### 2019.7.27
+* **Single Window Desktop App for Mac**
+    * **UnicodeNormalization**
+        * 不要なエラー表示がされていたのを修正。
+
+
 ### 2019.7.26
 * **Single Window Desktop App for Mac**
     * **Extras**
