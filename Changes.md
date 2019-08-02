@@ -1,10 +1,21 @@
 ## 変更点
 
+### 2019.8.2
+* **Single Window Desktop App for Mac**
+    * Generalモジュールにメソッド「BringFrontmost」「BringFrontmostMe」を追加。
+    * Window1にSetProxyIconメソッドを追加。
+* **Multi Window Desktop App for Mac**
+    * Window1にSetProxyIconメソッドを追加。
+
+### 2019.8.1
+* **Single Window Desktop App for Mac**
+* **Droplet**
+    * Quit時のクラッシュをさらに防ぐため、QuitをすべてNSApplicationのterminateを使用するようにした。
+
 ### 2019.7.27
 * **Single Window Desktop App for Mac**
     * **UnicodeNormalization**
         * 不要なエラー表示がされていたのを修正。
-
 
 ### 2019.7.26
 * **Single Window Desktop App for Mac**
@@ -31,7 +42,6 @@
 * **Droplet**
     * App.CloseにQuit時のクラッシュ防止を仕込んだ。
 
-
 ### 2019.7.21
 * **Single Window Desktop App for Mac**
     * **Extras**
@@ -42,7 +52,6 @@
     * App.EnableMenuItems を改善。
 * **Multi Window Desktop App for Mac**
     * App.EnableMenuItems を改善。
-
 
 ### 2019.7.7
 * **Single Window Desktop App for Mac**
