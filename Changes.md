@@ -1,5 +1,13 @@
 ## 変更点
 
+### 2019.8.3
+* **Single Window Desktop App for Mac**
+    * BringFrontmostMeメソッドを改善。
+    * SetProxyIconメソッドを改善。
+* **Multi Window Desktop App for Mac**
+    * ウインドウメニューの記号が不正確になる不具合を修正。
+    * SetProxyIconメソッドを改善。
+
 ### 2019.8.2
 * **Single Window Desktop App for Mac**
     * Generalモジュールにメソッド「BringFrontmost」「BringFrontmostMe」を追加。
