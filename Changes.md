@@ -1,5 +1,13 @@
 ## 変更点
 
+
+### 2019.8.10
+* **Single Window Desktop App for Mac**
+    * **myTextArea**
+        * 「SetSystemFont」メソッド追加。
+        * 「SetFontWithName」メソッド追加。
+        * 「SetFontPanelMenu」メソッド追加。
+        * 「LayoutOrientation」プロパティ追加。
 ### 2019.8.3
 * **Single Window Desktop App for Mac**
     * BringFrontmostMeメソッドを改善。
