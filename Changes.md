@@ -1,6 +1,10 @@
 ## 変更点
 
-
+### 2019.12.13
+* Xojo 2019r3で「Supports Dark Mode」をONにして保存し直した。
+* **Single Window Desktop App for Mac**
+    * **myListBox**
+        * ダークモードに対応。（ダークモード非対応のXojoバージョンでもエラーにならないので大丈夫）
 ### 2019.8.10
 * **Single Window Desktop App for Mac**
     * **myTextArea**
