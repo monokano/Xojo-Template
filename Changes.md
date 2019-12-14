@@ -1,5 +1,9 @@
 ## 変更点
 
+### 2019.12.14
+* **Single Window Desktop App for Mac**
+* **Droplet**
+    * アプリ終了時のクラッシュ予防でApp.terminateを使っていたが、App.Close以外ではQuitでするようにした。QuitにしないとApp.CancelCloseイベントが発動しないからです。
 ### 2019.12.13
 * Xojo 2019r3で「Supports Dark Mode」をONにして保存し直した。
 * **Single Window Desktop App for Mac**
