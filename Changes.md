@@ -1,5 +1,8 @@
 ## 変更点
 
+### 2019.12.16
+* **Single Window Desktop App for Mac**
+    * 初期設定に関するコードが分散していたのをPreferencesモジュールにまとめた。
 ### 2019.12.14
 * **Single Window Desktop App for Mac**
 * **Droplet**
