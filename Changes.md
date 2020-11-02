@@ -1,5 +1,17 @@
 ## 変更点
 
+### 2020.11.2
+* Xojo2018r2（OS X Mavericks 10.9対応の最終バージョン）に統一した
+* **Single Window Desktop App for Mac**
+    * **General.ShowInFinder**
+        * 動作しなくなっていたので修正した。
+    * **General.SystemVersion**
+        * 追加した。
+    * **Preferences.Raed/Preferences.SetDefault**
+        * デフォルトウインドウサイズをパラメーターに加えた。
+* **Droplet**
+    * 「2019r1まで」「2019r2以降」のどちらでも動作する1つにまとめた。
+    
 ### 2020.9.30
 * **Single Window Desktop App for Mac**
     * **myListBox**
