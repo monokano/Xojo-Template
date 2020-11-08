@@ -1,9 +1,16 @@
 ## 変更点
 
+### 2020.11.8
+* **Single Window Desktop App for Mac**
+    * **Extras**
+        * モジュール「SortArray」を「ArrayEx」に改名した。
+        * ArrayExにRemoveDuplicate を追加した。
+        
 ### 2020.11.4
 * **Single Window Desktop App for Mac**
-    * ExtraにFolderItemExモジュールを追加した。
-
+    * **Extras**
+        * FolderItemExモジュールを追加した。
+            * FileType取得などビルトインにはないメソッド集
 ### 2020.11.2
 * Xojo2018r2（OS X Mavericks 10.9対応の最終バージョン）に統一した
 * **Single Window Desktop App for Mac**
