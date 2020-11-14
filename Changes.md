@@ -1,9 +1,14 @@
 ## 変更点
 
+### 2020.11.14
+* **Single Window Desktop App for Mac**
+	* **Extras**
+        * ArrayExで配列要素数が1つ以下なら処理しないようにした。
+
 ### 2020.11.11
 * **Single Window Desktop App for Mac**
-	* **myTextArea**
-        * SetFixedPitchFont を追加した。
+	* **Extras**
+        * myTextArea.SetFixedPitchFont を追加した。
 
 ### 2020.11.8
 * **Single Window Desktop App for Mac**
