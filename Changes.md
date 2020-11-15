@@ -1,5 +1,10 @@
 ## 変更点
 
+### 2020.11.15
+* **Single Window Desktop App for Mac**
+	* **Extras**
+        * UnicodeNormalizationで対象文字列が英数字1文字のときなどでエラーになっていたのを修正した。
+
 ### 2020.11.14
 * **Single Window Desktop App for Mac**
 	* **Extras**
