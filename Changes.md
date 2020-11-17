@@ -1,5 +1,12 @@
 ## 変更点
 
+### 2020.11.17
+* **Single Window Desktop App for Mac**
+	* **Extras**
+        * General.GetFrontmostAppBundleIDを追加した。
+        * General.GetFrontmostAppNameを追加した。
+	* AboutWindowのサイズを調整した。
+
 ### 2020.11.15
 * **Single Window Desktop App for Mac**
 	* **Extras**
