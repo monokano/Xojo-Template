@@ -1,5 +1,13 @@
 ## 変更点
 
+### 2020.11.20
+* **Single Window Desktop App for Mac**
+	* **Extras**
+        * Show...系のメソッドを実行時に最前面になるようにした。
+        * SystemVersionをGetSystemVersionIntに改名。
+        * SystemVersionToIntを追加
+        * StringExモジュールを追加した。
+
 ### 2020.11.17
 * **Single Window Desktop App for Mac**
 	* **Extras**
