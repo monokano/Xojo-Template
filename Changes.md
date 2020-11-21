@@ -1,5 +1,13 @@
 ## 変更点
 
+### 2020.11.21
+* **Single Window Desktop App for Mac**
+	* **Extras**
+        * GetSystemVersionIntがBig Sur 11.0に対応していなかったので直した。
+* **Multi Window Desktop App for Mac**
+    * App.RefreshWindowMenuTitleを追加。
+    * App.frontmostDocumentWindowをブラッシュアップした。
+
 ### 2020.11.20
 * **Single Window Desktop App for Mac**
 	* **Extras**
