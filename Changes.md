@@ -4,8 +4,16 @@
 * **Single Window Desktop App for Mac**
 	* **Extras**
         * GetSystemVersionIntがBig Sur 11.0に対応していなかったので直した。
+        * myTextArea.ShowFindBarを削除。
+        * myTextArea.FindSettingを追加。Openイベントで実行するようにした。
 * **Multi Window Desktop App for Mac**
     * App.RefreshWindowMenuTitleを追加。
+* **Single/Multi Window Desktop App for Mac**
+	* **MenuBar**
+        * MenuSelectAllモジュールをCocoaMenuに改名。
+        * CocoaMenuItemFindAbstractクラス、CocoaMenuItemFindクラスを追加。
+	* メニュバーにメニュー項目EditFindを追加。設定不要で検索バーを表示できるようになった。
+	* ウインドウメニューの標準の項目もCocoaMenu仕様に変更した。
 
 ### 2020.11.20
 * **Single Window Desktop App for Mac**
