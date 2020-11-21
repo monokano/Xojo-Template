@@ -1,5 +1,9 @@
 ## 変更点
 
+### 2020.11.22
+* **Droplet**
+	* Timerを使っているメリットを生かすように処理の流れを変えた。
+
 ### 2020.11.21
 * **Single Window Desktop App for Mac**
 	* **Extras**
