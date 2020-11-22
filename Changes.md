@@ -1,6 +1,9 @@
 ## 変更点
 
 ### 2020.11.22
+* **Single/Multi Window Desktop App for Mac**
+	* AdoutWindowクラスを削除し、macOS標準のorderFrontStandardAboutPanelを使用。
+	* ビルド時にScriptでCFBundleVersionをBuild Versionのみにするようにした。
 * **Droplet**
 	* Timerを使っているメリットを生かすように処理の流れを変えた。
 
