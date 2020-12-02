@@ -1,5 +1,11 @@
 ## 変更点
 
+### 2020.11.21
+* **Single**
+	* **Extras**
+        * myTextArea.SolvedTextに不具合があったので防止策を施した。
+	* **Preferences**
+        * Prefs.Hasを追加した。
 ### 2020.11.22
 * **Droplet/Single/Multi**
 	* AboutWindowクラスを削除し、macOS標準のorderFrontStandardAboutPanelを使用。
