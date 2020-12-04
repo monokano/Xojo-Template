@@ -1,5 +1,14 @@
 ## 変更点
 
+### 2020.12.4
+* **Single**
+	* General.ShowAlertYesNo を追加した。
+	* Window1.AdjustPosition にサイズ調整も加えた。
+* **Multi**
+	* App.FrontmostWindow1 を追加した。
+	* App.GetAllWindow1 を追加した。
+	* Window1.AdjustPosition を追加した。
+
 ### 2020.11.21
 * **Single**
 	* **Extras**
