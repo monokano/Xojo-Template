@@ -4,6 +4,7 @@
 * **Single**
 	* General.ShowAlertYesNo を追加した。
 	* Window1.AdjustPosition にサイズ調整も加えた。
+	* Prefs.SetArrayInteger／Prefs.GetArrayInteger を追加した。
 * **Multi**
 	* App.FrontmostWindow1 を追加した。
 	* App.GetAllWindow1 を追加した。
