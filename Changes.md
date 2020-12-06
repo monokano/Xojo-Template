@@ -1,5 +1,8 @@
 ## 変更点
 
+### 2020.12.5
+* **Single**
+	* 初期設定周りを見直した。
 ### 2020.12.4
 * **Single**
 	* General.ShowAlertYesNo を追加した。
