@@ -1,5 +1,9 @@
 ## 変更点
 
+### 2020.12.10
+* **Single**
+	* **Preferences**
+        * Prefs.GetArrayInteger／Prefs.GetArrayString／Prefs.GetArrayVariant／Prefs.GetDictionary を追加した。
 ### 2020.12.5
 * **Single**
 	* 初期設定周りを見直した。
