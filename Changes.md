@@ -1,5 +1,9 @@
 ## 変更点
 
+### 2020.12.15
+* **Single**
+	* **Extras**
+        * ArrayEx.IndexOf を追加した。
 ### 2020.12.10
 * **Single**
 	* **Preferences**
