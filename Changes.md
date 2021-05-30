@@ -1,5 +1,13 @@
 ## 変更点
 
+### 2021.5.28
+* **Single**
+	* Window1.AdjustPosition をブラッシュアップした。
+
+### 2020.12.23
+* **Single**
+    * Window.CloseでQuitするのをやめて、App.AutoQuitにした。
+
 ### 2020.12.15
 * **Single**
 	* **Extras**
