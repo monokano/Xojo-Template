@@ -1,5 +1,15 @@
 ## 変更点
 
+### 2022.5.20
+* **Droplet**
+	* 廃止。macOS 10.12以降のセキュリティ強化の影響で使用に難があるため。
+* **Single/Multi**
+	* IDE Scriptで使用しているコマンド「CurrentBuildAppName」の仕様がXojo 2022r1で変更されたので対策した。
+
+### 2021.9.17
+* **Droplet**
+	* フォルダーもドロップできるようにした。
+
 ### 2021.5.28
 * **Single**
 	* Window1.AdjustPosition をブラッシュアップした。
@@ -12,13 +22,16 @@
 * **Single**
 	* **Extras**
         * ArrayEx.IndexOf を追加した。
+
 ### 2020.12.10
 * **Single**
 	* **Preferences**
         * Prefs.GetArrayInteger／Prefs.GetArrayString／Prefs.GetArrayVariant／Prefs.GetDictionary を追加した。
+
 ### 2020.12.5
 * **Single**
 	* 初期設定周りを見直した。
+
 ### 2020.12.4
 * **Single**
 	* General.ShowAlertYesNo を追加した。
@@ -35,6 +48,7 @@
         * myTextArea.SolvedTextに不具合があったので防止策を施した。
 	* **Preferences**
         * Prefs.Hasを追加した。
+
 ### 2020.11.22
 * **Droplet/Single/Multi**
 	* AboutWindowクラスを削除し、macOS標準のorderFrontStandardAboutPanelを使用。
@@ -101,6 +115,7 @@
     * **Extras**
         * FolderItemExモジュールを追加した。
             * FileType取得などビルトインにはないメソッド集
+
 ### 2020.11.2
 * Xojo2018r2（OS X Mavericks 10.9対応の最終バージョン）に統一した
 * **Single**
@@ -117,21 +132,26 @@
 * **Single**
     * **myListBox**
         * 罫線の描画を追加した。
+
 ### 2019.12.17
 * **Droplet**
     * Xojo 2019r2からドロップレットの設定方法が変更になっていたので「2019r1まで」「2019r2以降」の2つに分けた。
+
 ### 2019.12.16
 * **Single**
     * 初期設定に関するコードが分散していたのをPreferencesモジュールにまとめた。
+
 ### 2019.12.14
 * **Single**
 * **Droplet**
     * アプリ終了時のクラッシュ予防でApp.terminateを使っていたが、App.Close以外ではQuitでするようにした。QuitにしないとApp.CancelCloseイベントが発動しないからです。
+
 ### 2019.12.13
 * Xojo 2019r3で「Supports Dark Mode」をONにして保存し直した。
 * **Single**
     * **myListBox**
         * ダークモードに対応。（ダークモード非対応のXojoバージョンでもエラーにならないので大丈夫）
+
 ### 2019.8.10
 * **Single**
     * **myTextArea**
@@ -139,6 +159,7 @@
         * 「SetFontWithName」メソッド追加。
         * 「SetFontPanelMenu」メソッド追加。
         * 「LayoutOrientation」プロパティ追加。
+
 ### 2019.8.3
 * **Single**
     * BringFrontmostMeメソッドを改善。
