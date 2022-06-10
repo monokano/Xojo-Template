@@ -1,5 +1,12 @@
 ## 変更点
 
+### 2022.6.10
+* **Single/Multi**
+	* Window1.AdjustPosition を削除し、WindowEXモジュールを追加した。
+	* WindowEX.AdjustWindow で、ウインドウの位置とサイズの調整をマルチディスプレイ対応にした。
+* **Drop to Window**
+	* Sample-JP > Drop to Window を追加した。
+
 ### 2022.5.20
 * **Droplet**
 	* 廃止。macOS 10.12以降のセキュリティ強化の影響で使用に難があるため。
