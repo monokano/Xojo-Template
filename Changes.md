@@ -1,5 +1,9 @@
 ## 変更点
 
+### 2022.6.11
+* **Single**
+    * myListboxクラスで行に横腺を描画していたのを廃止した。
+
 ### 2022.6.10
 * **Single/Multi**
 	* Window1.AdjustPosition を削除し、WindowEXモジュールを追加した。
