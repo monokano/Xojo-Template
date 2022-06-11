@@ -3,6 +3,8 @@
 ### 2022.6.11
 * **Single**
     * myListboxクラスで行に横腺を描画していたのを廃止した。
+* **Single/Multi**
+	* WindowEX.DisableAutoTabbing を追加した。
 
 ### 2022.6.10
 * **Single/Multi**
