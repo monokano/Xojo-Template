@@ -1,5 +1,9 @@
 ## 変更点
 
+### 2022.6.14
+* **Single/Drop to Window**
+    * ShowInFinder メソッドを修正した。
+
 ### 2022.6.11
 * **Single**
     * myListboxクラスで行に横腺を描画していたのを廃止した。
