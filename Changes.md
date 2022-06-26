@@ -1,5 +1,9 @@
 ## 変更点
 
+### 2022.6.26
+* **Drop to Window**
+    * 古いSingleベースだったのを修正した。
+    
 ### 2022.6.14
 * **Single/Drop to Window**
     * ShowInFinder メソッドを修正した。
