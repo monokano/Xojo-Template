@@ -1,5 +1,10 @@
 ## 変更点
 
+### 2022.12.6
+* **Single**
+	* **Extras**
+        * myListBoxの不具合を修正。API2のmyListBoxのヘッダの色を白にした。
+        
 ### 2022.11.23
 * **Single**
 	* **Extras**
