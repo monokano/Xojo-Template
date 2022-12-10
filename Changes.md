@@ -1,5 +1,15 @@
 ## 変更点
 
+### 2022.12.10
+* **Single**
+	* **Extras**
+        * myListBoxのFinderソートが機能していなかった不具合を修正した。
+        
+### 2022.12.8
+* **Single**
+	* **Extras**
+        * API2のmyListBoxのヘッダの色を白にする処理を改善。
+        
 ### 2022.12.6
 * **Single**
 	* **Extras**
