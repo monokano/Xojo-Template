@@ -8,8 +8,6 @@
 
 ## テンプレートの説明
 XojoのAPI1用とAPI2用の2種類あります。
-API1用は、Xojo 2018r2で作成。
-AP12用は、Xojo 2022r2で作成。
 
 #### Single Window Desktop App for Mac
 * ウインドウがひとつだけのデスクトップアプリです。
